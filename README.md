@@ -2,7 +2,7 @@
 - 🌎 When I'm not working on a project or teaching myself something new, I travel the world (in non-COVID times anyway) 
 - 🏄🏽‍♀️I like visiting countries where I can surf, scuba dive, or hike 
 - ❤ I love all things Power Platform, Python, and data
-- 🏫 I’m currently learning Python and JSON
+- 🏫 I’m currently learning Python 
 - 📈 I lead the Washington D.C. Power BI Group with three of my favorite people! https://www.meetup.com/Power-BI-DC/
 - 🥗 During COVID, I taught myself how to cook Mexican, Indian, Thai, and Chinese foods. I'm working on getting sushi right 🍣
 
