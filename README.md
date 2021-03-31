@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rocio Holub (@rsholub)
+- 👋 Hi, I’m Rocio Holub
 - 🌎 When I'm not working on a project or teaching myself something new, I travel the world (in non-COVID times anyway) 
 - 🏄🏽‍♀️I like visiting countries where I can surf, scuba dive, or hike 
 - ❤ I love all things Power Platform, Python, and data
